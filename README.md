@@ -1,5 +1,5 @@
 # Pikachu Drawing Using Python
-This is a Pikachu Drawing Using Python.In this project, we created a Popular character of Pokemon Pikachu using the Turtle module.In this Project develops using turtle module. 
+This is a Pikachu Drawing Using Python.In this project, we created a Popular character of Pokemon Pikachu using the Turtle module.In this Project Developed using the turtle module. 
 
 ## Setup instructions
 There are two ways to run it on your Linux,MAC or Windows
