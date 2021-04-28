@@ -15,16 +15,14 @@ There are two ways to run it on your Linux,MAC or Windows
 - Python3
 
 ```bash
-pip install tkintertable
+pip install turtle
 ```
-```bash
-pip install subprocess.run
-```
+
 Click on the **Click Here** to see the Simple Python IDE using Tkinter Demo on YouTube.
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
-|Simple Python IDE using Tkinter| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) | tkintertable, subprocess.run
+|Simple Python IDE using Tkinter| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) |Turtle
 
 ## Output
 
