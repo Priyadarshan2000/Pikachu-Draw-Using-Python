@@ -18,7 +18,7 @@ Click on the **Click Here** to see the Simple Python IDE using Tkinter Demo on Y
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
-|Simple Python IDE using Tkinter| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) |Turtle
+|Pikachu Drawing Using Python| [Click Here](https://www.youtube.com/watch?v=-oGVdnelHv8)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) |Turtle
 
 ## Output
 
